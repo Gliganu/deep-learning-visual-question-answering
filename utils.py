@@ -13,6 +13,9 @@ questions_folder = "questions/"
 answers_folder = "answers/"
 
 train_folder = "train/"
+val_folder = "val/"
+
+general_datastruct_folder = "general-data-structures/"
 
 
 def save_array(fname, arr):
